@@ -1,0 +1,102 @@
+
+body {
+    background-image: url("elements/background_header.png");
+    background-position: top;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+header {
+    margin: 3% 10% 4% 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header img {
+    margin-right: 2%;
+}
+
+header img {
+    margin-right: 2%;
+}
+
+header a {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 12px;
+    margin-left: 50px;
+
+}
+
+.slogan {
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+}
+
+.slogan h1 {
+    font-weight: 700;
+    font-size: 120px;
+    margin: 150px 0 0 0;
+}
+.slogan p {
+    font-weight: 700;
+    font-size: 16px;
+    word-spacing: 60px;
+    margin: 0 0 0 0;
+}
+.slogan button {
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 40px;
+    background-color: #C271FF;
+    color: white;
+    padding: 15px 20px 15px 20px;
+    border-radius: 100px;
+    box-shadow: 1px 1px 50px rgba(0, 0, 0, 0.5);
+    border-style: none;
+}
+
+.block1 h2 {
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 100;
+    font-size: 32px;
+    color: white;
+    margin-top: 160px;
+}
+
+.block1 h2 span {
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    color: #C271FF;
+}
+.avatars {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;   
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 110px;
+}
+
+.avatars h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+    margin-bottom: 0;
+    font-size: 18px;
+}
+
+.avatars p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    margin-top: 5px;
+    font-size: 16px;
+}
+
